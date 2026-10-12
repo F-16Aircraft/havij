@@ -1,0 +1,1 @@
+havij extracted rar contains all files extracted from the installer, run in vm, malware analysis shows attempted vm escape, although that might be false positive, idk and idc, i have no idea how to use github so im just uploading the rar's. good luck
